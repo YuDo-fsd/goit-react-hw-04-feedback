@@ -1,0 +1,8 @@
+.section {
+  max-width: 300px;
+  padding-left: 20px;
+}
+
+.section__title {
+  color: yellowgreen;
+}

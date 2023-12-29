@@ -1,0 +1,11 @@
+.statistics {
+  display: flex;
+  flex-direction: column;
+  padding-left: 0;
+  list-style: none;
+}
+
+.statistics__item {
+  margin-bottom: 10px;
+  font-size: 20px;
+}
